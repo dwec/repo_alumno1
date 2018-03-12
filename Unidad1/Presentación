@@ -1,0 +1,19 @@
+Descripción:
+
+Herramientas y lenguajes de programación Web en el lado cliente.
+Primera Unidad de Trabajo del módulo. 
+Primera Unidad del primer bloque 'Introducción al desarrollo Web'.
+Pretende ofrecer al alumnado una visión global del desarrollo Web, describiendo los elementos 
+involucrados en la ejecución del código.
+Nos centraremos en el lado cliente; Navegadores Web y lenguajes de programación.
+Haremos un repaso de los lenguajes de programación en el lado cliente y cuáles son sus funcionalidades, 
+haciendo especial hincapié en javaScript, que será el lenguaje tratado en las siguientes Unidades.
+
+Objetivos:
+
+Conocer los diferentes navegadores Web del mercado actual.
+Distinguir entre lado cliente y lado servidor.
+Comprender los mecanismos de ejecución de código en un navegador.
+Identificar los lenguajes de programación en entorno cliente.
+Instalar Aptana Studio 3.
+Configurar repositorio "github" en Aptana.
